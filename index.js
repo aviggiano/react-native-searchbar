@@ -327,9 +327,7 @@ export default class Search extends Component {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    zIndex: 10,
     position: 'absolute',
-    elevation: 2,
     shadowRadius: 5,
   },
   navWrapper: {
